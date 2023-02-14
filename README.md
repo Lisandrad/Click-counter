@@ -4,5 +4,5 @@
 
  
  
- To see the app working, [**Click here**](http://localhost:3000/).
+ To see the app working, [**Click here**](http://localhost:3000/target="_blank").
  
